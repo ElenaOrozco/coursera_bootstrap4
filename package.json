@@ -1,0 +1,19 @@
+{
+  "name": "coursera_bootstrap4",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[B\u001b[B\u001b[A\u001b[BPrimer proyecto node js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenaOrozco/coursera_bootstrap4.git"
+  },
+  "author": "Elena Orozco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElenaOrozco/coursera_bootstrap4/issues"
+  },
+  "homepage": "https://github.com/ElenaOrozco/coursera_bootstrap4#readme"
+}
